@@ -1,0 +1,3 @@
+export const IMAGE_GENERATION_PROMPT = `Use the Nano-Banana model to create a 1/7 scale commercial model of the illustrated character, rendered in authentic style, lighting, and enviroment. 
+
+Place the figure on a computer desk, mounted on a circular, clear acrylic base with no text. On the computer screen, display the Brush process of the model. Next to the screen, include a Bandai-style toy box with the original illustration.`;
